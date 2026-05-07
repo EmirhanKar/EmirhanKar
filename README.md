@@ -34,14 +34,13 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eemirhankar54&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true &cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eemirhankar54&layout=compact&theme=tokyonight&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmirhanKar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanKar&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eemirhankar54&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanKar&theme=tokyonight" />
 </div>
-
 ---
 
 ### 🐍 Contribution Snake
