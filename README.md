@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Emirhan Kar</h1>
-  <p><b>Computer Engineering Student at Konya Technical University | Backend Developer</b></p>
+  <p><b>Computer Engineering Student at Konya Technical University | Full-Stack Developer | Computer Vision & Image Processing</b></p>
   
   <p>
     <a href="https://linkedin.com/in/emirhan-kar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
